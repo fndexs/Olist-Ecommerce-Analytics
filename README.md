@@ -6,7 +6,7 @@
 ## 📎 Links
 
 - 📊 [Visualizar Dashboard no Google Drive](https://drive.google.com/file/d/17U8y7YiToYnmakQgPHRCyooRiqpXt5Xq/view?usp=drive_link)
-- 📝 [Apresentação Executiva](https://...)
+- 📝 [Apresentação Executiva](https://github.com/fndexs/Olist-Ecommerce-Analytics/tree/1a8622b827e6a9385243afeddeb3dbe827b256f8/docs/apresenta%C3%A7%C3%A3o%20executiva)
 - 🎥 [Vídeo Executivo (YouTube)](https://youtube.com/...)
 - 📁 [Dataset — Kaggle](https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce)
 
