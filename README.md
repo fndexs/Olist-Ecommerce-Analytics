@@ -156,9 +156,7 @@ Olist Dataset (CSV)
    4 Páginas Analíticas (Power BI Report)
 ```
 
-**Visuais customizados utilizados:**
-- **Synoptic Panel by OKVIZ** — para o mapa de calor regional
-- **Deneb** — para visualizações customizadas baseadas em Vega/Vega-Lite
+
 
 ---
 
@@ -169,7 +167,6 @@ Olist Dataset (CSV)
 | Power BI Desktop | Modelagem, DAX e visualização |
 | Power Query (M) | ETL e transformação dos dados |
 | DAX | Medidas calculadas e KPIs |
-| Synoptic Panel (OKVIZ) | Mapa de calor interativo |
 | Azure Maps | Geolocalização de entregas |
 ---
 
