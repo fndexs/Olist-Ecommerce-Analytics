@@ -174,6 +174,16 @@ Olist Dataset (CSV)
 🔍 **Acessar documentação de métricas e performance:**  
 [Model Metrics & Performance Analysis](https://github.com/fndexs/Olist-Ecommerce-Analytics/tree/865e8662ffb59b4609f2dbfbed2a24e74cf84d5c/docs/metrics)
 
+## Principais Conclusões
+
+Os resultados demonstram uma operação em crescimento consistente, com faturamento superior a **R$ 9,6 milhões** e aumento de **17,1%** em relação ao ano anterior. O volume de mais de **61 mil pedidos processados** evidencia a expansão da demanda, enquanto a estabilidade do ticket médio reforça a sustentabilidade desse crescimento.
+
+As categorias **Health & Beauty**, **Watches & Gifts** e **Bed Bath & Table** destacam-se como os principais impulsionadores de receita, enquanto a região Sudeste, especialmente **São Paulo**, concentra a maior parte das vendas da operação.
+
+A análise também revela a predominância do **cartão de crédito** como principal meio de pagamento utilizado pelos consumidores. Por outro lado, a ocorrência de aproximadamente **4,5 mil entregas em atraso** evidencia oportunidades de otimização logística para acompanhar o ritmo de crescimento do negócio.
+
+De forma geral, o dashboard demonstra uma operação sólida e escalável, oferecendo insights estratégicos para apoiar a tomada de decisão, identificar oportunidades de expansão e promover o crescimento sustentável da operação.
+
 ## Equipe
 
 | Nome | Papel |
