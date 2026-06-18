@@ -3,8 +3,9 @@
 > **Pergunta de Negócio Norteadora:**
 > **"O crescimento do e-commerce brasileiro entre 2016 e 2018 foi sustentável ou foi impulsionado por uma base de clientes que não retorna, com gargalos logísticos que corroem a satisfação e comprometem a escalabilidade do negócio?"**
 
-[Dashboard Link]: (https://drive.google.com/file/d/17U8y7YiToYnmakQgPHRCyooRiqpXt5Xq/view?usp=drive_link)
----
+🔗 **Acesse o dashboard completo:**
+
+[Visualizar Dashboard no Google Drive](https://drive.google.com/file/d/17U8y7YiToYnmakQgPHRCyooRiqpXt5Xq/view?usp=drive_link)
 
 ## 🗂️ Sumário
 
