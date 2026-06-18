@@ -163,11 +163,13 @@ Olist Dataset (CSV)
 ## Tecnologias Utilizadas
 
 | Tecnologia | Uso |
-|---|---|
-| Power BI Desktop | Modelagem, DAX e visualização |
-| Power Query (M) | ETL e transformação dos dados |
-| DAX | Medidas calculadas e KPIs |
-| Azure Maps | Geolocalização de entregas |
+|------------|-----|
+| Power BI Desktop | Desenvolvimento completo do dashboard e modelagem dimensional |
+| Power Query (M) | Processos de ETL e preparação dos dados |
+| DAX | Desenvolvimento de KPIs, medidas e lógica de negócio |
+| Azure Maps | Análise geográfica e distribuição regional das vendas |
+| DAX Studio | Análise de métricas do modelo, VertiPaq e otimização de performance |
+| Performance Analyzer | Monitoramento do tempo de execução dos visuais e identificação de oportunidades de otimização |
 ---
 
 ## Equipe
