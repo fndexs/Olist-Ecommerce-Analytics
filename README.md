@@ -9,7 +9,7 @@
 - 📝 [Apresentação Executiva](https://...)
 - 🎥 [Vídeo Executivo (YouTube)](https://youtube.com/...)
 - 📁 [Dataset — Kaggle](https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce)
-
+[Acesse o Repositório Completo](https://github.com/fndexs/Olist-Ecommerce-Analytics)*
 
 ## 🗂️ Sumário
 
