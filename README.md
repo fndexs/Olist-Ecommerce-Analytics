@@ -171,6 +171,8 @@ Olist Dataset (CSV)
 | DAX Studio | Análise de métricas do modelo, VertiPaq e otimização de performance |
 | Performance Analyzer | Monitoramento do tempo de execução dos visuais e identificação de oportunidades de otimização |
 ---
+🔍 **Acessar documentação de métricas e performance:**  
+[Model Metrics & Performance Analysis](https://github.com/fndexs/Olist-Ecommerce-Analytics/tree/865e8662ffb59b4609f2dbfbed2a24e74cf84d5c/docs/metrics)
 
 ## Equipe
 
