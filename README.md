@@ -3,9 +3,13 @@
 > **Pergunta de Negócio Norteadora:**
 > **"O crescimento do e-commerce brasileiro entre 2016 e 2018 foi sustentável ou foi impulsionado por uma base de clientes que não retorna, com gargalos logísticos que corroem a satisfação e comprometem a escalabilidade do negócio?"**
 
-🔗 **Acesse o dashboard completo:**
+## 📎 Links
 
-[Visualizar Dashboard no Google Drive](https://drive.google.com/file/d/17U8y7YiToYnmakQgPHRCyooRiqpXt5Xq/view?usp=drive_link)
+- 📊 [Visualizar Dashboard no Google Drive](https://drive.google.com/file/d/17U8y7YiToYnmakQgPHRCyooRiqpXt5Xq/view?usp=drive_link)
+- 📝 [Apresentação Executiva](https://...)
+- 🎥 [Vídeo Executivo (YouTube)](https://youtube.com/...)
+- 📁 [Dataset — Kaggle](https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce)
+
 
 ## 🗂️ Sumário
 
@@ -186,14 +190,6 @@ De forma geral, o dashboard demonstra uma operação sólida e escalável, ofere
 | [Eduarda Fernandes da Silva e Vitor Campos da Silva] | Visualizações & storytelling |
 | [Eduarda Fernandes da Silva e Vitor Campos da Silva] | Análise exploratória & RFM |
 | [Eduarda Fernandes da Silva e Vitor Campos da Silva] | Logística & SLA |
-
----
-
-## 📎 Links
-
-- 🎥 [Vídeo Executivo (YouTube)](https://youtube.com/...)
-- 📊 [Apresentação Executiva](https://...)
-- 📁 [Dataset — Kaggle](https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce)
 
 ---
 
