@@ -167,7 +167,11 @@ Olist Dataset (CSV)
 | Synoptic Panel (OKVIZ) | Mapa de calor interativo |
 | Azure Maps | Geolocalização de entregas |
 ---
+
+
 ---
+
+
 ## Principais Conclusões
 
 Os resultados demonstram uma operação em crescimento consistente, com faturamento superior a **R$ 9,6 milhões** e aumento de **17,1%** em relação ao ano anterior. O volume de mais de **61 mil pedidos processados** evidencia a expansão da demanda, enquanto a estabilidade do ticket médio reforça a sustentabilidade desse crescimento.
