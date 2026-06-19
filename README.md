@@ -1,7 +1,7 @@
 # 📊 Olist E-Commerce Analytics — Tech Challenge POSTECH DTAT Fase 1
 
 > **Pergunta de Negócio Norteadora:**
-> **"O crescimento do e-commerce brasileiro entre 2016 e 2018 foi sustentável ou foi impulsionado por uma base de clientes que não retorna, com gargalos logísticos que corroem a satisfação e comprometem a escalabilidade do negócio?"**
+> **"Como maximizar a geração de receita e a eficiência operacional, identificando oportunidades de expansão, ganho de market share (participação de mercado) e aumento de rentabilidade?"**
 
 ## 📎 Links
 
